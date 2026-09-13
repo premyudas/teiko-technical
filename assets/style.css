@@ -1,0 +1,14 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    padding: 24px;
+    margin-bottom: 12px;
+}
+
+h2 {
+    margin-bottom: 12px;
+}
+
+.ag-theme-quartz {
+    --ag-font-family: 'Open Sans', sans-serif;
+    margin-bottom: 24px;
+}
